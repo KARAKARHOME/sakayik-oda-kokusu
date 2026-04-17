@@ -70,7 +70,7 @@ export default function AboutPage() {
 
           <h2>Vizyonumuz</h2>
           <p>
-            Türkiye'nin en güvenilir ve tercih edilen doğal oda kokusu markası olmak. 
+            Türkiye&apos;nin en güvenilir ve tercih edilen doğal oda kokusu markası olmak. 
             Sürdürülebilir üretim ve çevre dostu yaklaşımımızla sektöre öncülük etmek.
             Sorularınız için <Link href="/iletisim" className="text-primary hover:underline">bizimle iletişime</Link> geçebilirsiniz.
           </p>
@@ -126,7 +126,7 @@ export default function AboutPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-primary mt-1">•</span>
-                <span>Türkiye'de üretim</span>
+                <span>Türkiye&apos;de üretim</span>
               </li>
             </ul>
           </CardContent>

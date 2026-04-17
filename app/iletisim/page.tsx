@@ -86,7 +86,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold mb-2">Sipariş nasıl verebilirim?</h3>
                 <p className="text-sm text-muted-foreground">
-                  <Link href="/urun/sakayik" className="text-primary hover:underline">Ürün sayfasından</Link> "Sipariş Ver" butonuna tıklayarak online mağazamızdan sipariş verebilirsiniz. 
+                  <Link href="/urun/sakayik" className="text-primary hover:underline">Ürün sayfasından</Link> &quot;Sipariş Ver&quot; butonuna tıklayarak online mağazamızdan sipariş verebilirsiniz. 
                   Alternatif olarak bizi arayarak da sipariş verebilirsiniz. <Link href="/" className="text-primary hover:underline">Ana sayfamızda</Link> detaylı bilgi bulabilirsiniz.
                 </p>
               </div>
