@@ -19,7 +19,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/_next/'],
       },
     ],
-    sitemap: 'https://sakayik-oda-kokusu.com/sitemap.xml',
-    host: 'https://sakayik-oda-kokusu.com',
+    sitemap: 'https://sakayikodakokusu.com.tr/sitemap.xml',
+    host: 'https://sakayikodakokusu.com.tr',
   }
 }

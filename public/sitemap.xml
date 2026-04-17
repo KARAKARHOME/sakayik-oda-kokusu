@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://sakayik-oda-kokusu.com/iletisim/</loc><lastmod>2026-04-17T11:52:21.013Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://sakayik-oda-kokusu.com/hakkimizda/</loc><lastmod>2026-04-17T11:52:21.014Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://sakayik-oda-kokusu.com/robots.txt/</loc><lastmod>2026-04-17T11:52:21.014Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://sakayik-oda-kokusu.com/sitemap.xml/</loc><lastmod>2026-04-17T11:52:21.014Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://sakayik-oda-kokusu.com/icon.png/</loc><lastmod>2026-04-17T11:52:21.014Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://sakayik-oda-kokusu.com/urun/sakayik/</loc><lastmod>2026-04-17T11:52:21.014Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://sakayik-oda-kokusu.com/</loc><lastmod>2026-04-17T11:52:21.014Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/robots.txt/</loc><lastmod>2026-04-17T11:54:16.829Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/urun/sakayik/</loc><lastmod>2026-04-17T11:54:16.830Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/iletisim/</loc><lastmod>2026-04-17T11:54:16.830Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/hakkimizda/</loc><lastmod>2026-04-17T11:54:16.830Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/icon.png/</loc><lastmod>2026-04-17T11:54:16.830Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/</loc><lastmod>2026-04-17T11:54:16.830Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sakayikodakokusu.com.tr/sitemap.xml/</loc><lastmod>2026-04-17T11:54:16.830Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>

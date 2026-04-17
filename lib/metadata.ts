@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 
-const siteUrl = 'https://sakayik-oda-kokusu.com'
+const siteUrl = 'https://sakayikodakokusu.com.tr'
 const siteName = 'Şakayık Çubuklu Oda Kokusu'
 const siteDescription = 'Premium şakayık esanslı çubuklu oda kokusu. %100 doğal içerik, uzun ömürlü, zarif tasarım. Evinize doğal zarafet ve huzur katın.'
 

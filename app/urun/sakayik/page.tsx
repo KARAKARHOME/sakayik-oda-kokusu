@@ -18,7 +18,7 @@ export default function ProductPage() {
     '@type': 'Product',
     name: 'Şakayık Çubuklu Oda Kokusu',
     description: 'Premium şakayık esanslı çubuklu oda kokusu. 100ml, 8 bambu çubuk, 3-4 ay dayanıklı.',
-    image: 'https://sakayik-oda-kokusu.com/product.webp',
+    image: 'https://sakayikodakokusu.com.tr/product.webp',
     sku: 'SAKAYIK-001',
     brand: {
       '@type': 'Brand',
@@ -26,7 +26,7 @@ export default function ProductPage() {
     },
     offers: {
       '@type': 'Offer',
-      url: 'https://sakayik-oda-kokusu.com/urun/sakayik',
+      url: 'https://sakayikodakokusu.com.tr/urun/sakayik',
       priceCurrency: 'TRY',
       price: '689',
       availability: 'https://schema.org/InStock',

@@ -13,7 +13,7 @@ export default function Home() {
     '@type': 'Product',
     name: 'Şakayık Çubuklu Oda Kokusu',
     description: 'Premium şakayık esanslı çubuklu oda kokusu. %100 doğal içerik, uzun ömürlü, zarif tasarım.',
-    image: 'https://sakayik-oda-kokusu.com/product.webp',
+    image: 'https://sakayikodakokusu.com.tr/product.webp',
     brand: {
       '@type': 'Brand',
       name: 'Şakayık',

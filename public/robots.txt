@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://sakayik-oda-kokusu.com
+Host: https://sakayikodakokusu.com.tr
 
 # Sitemaps
-Sitemap: https://sakayik-oda-kokusu.com/sitemap.xml
+Sitemap: https://sakayikodakokusu.com.tr/sitemap.xml

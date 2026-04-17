@@ -4,7 +4,7 @@ export function OrganizationSchema() {
     '@type': 'Organization',
     name: 'KARAKAR HOME',
     url: 'https://www.karakarhome.com.tr',
-    logo: 'https://sakayik-oda-kokusu.com/logo.webp',
+    logo: 'https://sakayikodakokusu.com.tr/logo.webp',
     description: 'Premium kalitede oda kokuları ve ev dekorasyon ürünleri',
     address: {
       '@type': 'PostalAddress',
@@ -63,7 +63,7 @@ export function WebsiteSchema() {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: 'Şakayık Çubuklu Oda Kokusu',
-    url: 'https://sakayik-oda-kokusu.com',
+    url: 'https://sakayikodakokusu.com.tr',
     description: 'Premium şakayık esanslı çubuklu oda kokusu. %100 doğal içerik, uzun ömürlü, zarif tasarım.',
     publisher: {
       '@type': 'Organization',
@@ -74,7 +74,7 @@ export function WebsiteSchema() {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: 'https://sakayik-oda-kokusu.com/?s={search_term_string}',
+        urlTemplate: 'https://sakayikodakokusu.com.tr/?s={search_term_string}',
       },
       'query-input': 'required name=search_term_string',
     },

@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://sakayik-oda-kokusu.com',
+  siteUrl: process.env.SITE_URL || 'https://sakayikodakokusu.com.tr',
   generateRobotsTxt: true,
   generateIndexSitemap: false,
   robotsTxtOptions: {
