@@ -118,7 +118,21 @@ sakayik/
 
 ## 🚀 Deployment
 
-### Vercel (Önerilen)
+### ✅ Canlı Site
+
+**Production URL**: https://sakayikodakokusu.com.tr  
+**Vercel URL**: https://sakayik-oda-kokusu.vercel.app  
+**GitHub**: https://github.com/KARAKARHOME/sakayik-oda-kokusu
+
+### Vercel Deployment
+
+Proje otomatik olarak Vercel'e deploy ediliyor:
+
+1. **Otomatik Deploy**: Her `main` branch push'unda otomatik deploy
+2. **Preview Deploy**: Her PR için preview URL
+3. **Domain**: `sakayikodakokusu.com.tr` custom domain olarak ayarlanmalı
+
+#### Manuel Deploy
 
 ```bash
 npm run build
@@ -138,6 +152,14 @@ netlify deploy --prod --dir=out
 npm run build
 # out/ klasörü herhangi bir static hosting'e yüklenebilir
 ```
+
+### 🔧 Vercel Domain Ayarları
+
+1. Vercel Dashboard → Project Settings → Domains
+2. `sakayikodakokusu.com.tr` ekle
+3. DNS kayıtlarını güncelle:
+   - A Record: `76.76.21.21`
+   - CNAME: `cname.vercel-dns.com`
 
 ## 🔧 Geliştirme Notları
 
