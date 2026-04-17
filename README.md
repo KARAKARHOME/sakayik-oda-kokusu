@@ -161,6 +161,25 @@ npm run build
    - A Record: `76.76.21.21`
    - CNAME: `cname.vercel-dns.com`
 
+### 🔐 Environment Variables
+
+Proje `.env.production` dosyasını kullanıyor. Vercel'de manuel olarak eklemek isterseniz:
+
+**Vercel Dashboard → Settings → Environment Variables:**
+
+```
+SITE_URL=https://sakayikodakokusu.com.tr
+NEXT_PUBLIC_SITE_URL=https://sakayikodakokusu.com.tr
+```
+
+**Local Development:**
+
+`.env.local` dosyası oluşturun (gitignore'da):
+
+```bash
+cp .env.example .env.local
+```
+
 ## 🔧 Geliştirme Notları
 
 - Tüm içerikler statik olarak yönetilir (veritabanı yok)
