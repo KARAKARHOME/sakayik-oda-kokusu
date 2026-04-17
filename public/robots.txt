@@ -1,9 +1,25 @@
 # *
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://sakayik-oda-kokusu.com/sitemap.xml
 
 # Host
 Host: https://sakayik-oda-kokusu.com
-
-# Sitemaps
-Sitemap: https://sakayik-oda-kokusu.com/sitemap.xml
